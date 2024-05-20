@@ -136,7 +136,7 @@ body {
     font-weight: 300;
     font-size: 16px;
     line-height: 1.6em;
-    padding: 0;
+    padding: 0 0 3em 0;
     color: #A49B89;
 }
 
@@ -253,7 +253,7 @@ p.small {
 }
 
 .logo {
-    margin: 3em 0;
+    margin: 3em 0 0 0;
     width: 100%;
 }
 
